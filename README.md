@@ -1,4 +1,4 @@
-# MongoDB .NET Core Demo
+# Jogo de Xadrez
 Este é um projeto de Console de um jogo de xadrez.
 
 ## Pré-requisitos
